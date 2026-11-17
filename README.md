@@ -3,8 +3,9 @@ A simple handler for HaloCE Arena Evolved/OpenCE,for multiple display, perfect f
 
 AI vibecoded with Gemini with some tweaks
 
-Download on release
+Download the latest file on release
 
+Download the nucleus coop:https://nucleus-coop.github.io/
 ### Setup & Input Lock
 1. Drag your controllers, keyboards, and mice onto either display in Nucleus Co-Op (up to 4 per display) and click **Play**.
 2. Once all windows finish opening and resizing, press the **END** key once to lock inputs to each screen (press **END** again to unlock when finished).
