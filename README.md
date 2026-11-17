@@ -2,6 +2,7 @@
 A simple handler for HaloCE Arena Evolved/OpenCE,for multiple display, perfect for Lan party
 
 AI vibecoded with Gemini with some tweaks
+
 Download on release
 
 ### Setup & Input Lock
