@@ -2,6 +2,7 @@
 A simple handler for HaloCE Arena Evolved/OpenCE,for multiple display, perfect for Lan party
 
 AI vibecoded with Gemini with some tweaks
+Download on release
 
 ### Setup & Input Lock
 1. Drag your controllers, keyboards, and mice onto either display in Nucleus Co-Op (up to 4 per display) and click **Play**.
