@@ -10,7 +10,7 @@ AI vibecoded with Gemini with some tweaks
 ### Hosting the Match (Player 1 / Display 1)
 1. Go to **Multiplayer > Host Game**.
 2. Set the Network type to **LAN**.
-   > **Note:** Switching to LAN may temporarily disconnect other players in the party due to a known game bug. Simply back out and select **Host Game** again to resolve it.
+   > **Note:** Switching to LAN may temporarily disconnect other players in the party due to a unknown game bug. Simply back out and select **Host Game** again to resolve it.
 3. Click **Start Server**.
 
 ### Joining the Match (All Other Instances / Display 2)
